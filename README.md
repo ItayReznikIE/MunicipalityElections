@@ -16,7 +16,7 @@ A Java-based system for managing municipal elections, built using object-oriente
 ## How to Run
 1. Open the project in Eclipse
 2. Set `Main.java` as the entry point
-3. Make sure the input files are available if needed
+3. Input files required: `Persons.txt` and `Vote_To.txt` (included in this repository)
 4. Run and view the results in the console
 
 ## Project Structure
